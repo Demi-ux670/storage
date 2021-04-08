@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+
+  <title>Document</title>
+</head>
+
+<body>
+  <center>
+    <hr size="5" no shade>
+    <h1><em>Uvaev Damir &lt;3</em></h1>
+    <p> <strong>First year student</strong></p>
+    <p><strong>this site is a rehearsal of my meaningless thoughts</strong></p>
+    <img src="https://sun9-5.userapi.com/impf/c849028/v849028659/e1cc5/5xXIm0hyg3g.jpg?size=1024x768&quality=96&sign=68b7b9e173ccac5ebf4087ba20ac33c5&type=album" alt="it's me" width="200" height="180">
+    <p>It's me</p>
+  </center>
+  <hr size="5" no shade>
+
+  <p>Firstly, let's understand what kind of content this website will contain</p>
+  <ol type="sqare">
+    <li>something with no sense</li>
+    <li>sensless thoughts</li>
+    <li>no point here</li>
+  </ol>
+
+  <br>
+
+  <p>My meaningless hobbys</p>
+  <ul type="circle">
+    <li>staring at my phone</li>
+    <li>playing video games</li>
+    <li>drinking coffee</li>
+  </ul>
+
+  <br>
+
+  <p>To know me better you should who my relatives are</p>
+  <center>
+    <table border="1" align="center" bgcolor="pink">
+      <caption>Table of my relatives</caption>
+      <tr>
+        <th>Relatives</th>
+        <th>Name</th>
+      </tr>
+      <tr>
+        <td>Mom</td>
+        <td>Kymbat</td>
+      </tr>
+      <tr>
+        <td>Papa</td>
+        <td>Erlan</td>
+      </tr>
+      <tr>
+        <td>lil bro</td>
+        <td>Aziz</td>
+      </tr>
+      <tr>
+        <td>lil sis</td>
+        <td>Sati</td>
+      </tr>
+  </center>
+
+  </table>
+  <form action="handler.php">
+    <p><b>What is my Mom name?</b></p>
+    <p><input type="radio" name="answer" value="a1">Roza<Br>
+      <input type="radio" name="answer" value="a2">Bahyt<Br>
+      <input type="radio" name="answer" value="a3">Kymbat
+    </p>
+    <p><input type="submit"></p>
+  </form>
+
+  <br>
+
+  <p><a href="https://vk.com/bachu_kleem">if you want to contact me, then write here</a> </p>
+</body>
+
+</html>
